@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "content": [
         {
             "id": 361022855602896896,
@@ -399,20 +398,3 @@
         }
     ]
 }
-=======
-  "content": [
-    {
-      "id": 0,
-      "name": "Nitro Blob Hub",
-      "invite": "https://discord.gg/wdPs3MU",
-      "image": "images/hub.png"
-    },
-    {
-      "id": 1,
-      "name": "Google Blobs 1",
-      "invite": "https://discord.gg/PQCW3kM",
-      "image": "images/central.png"
-    }
-  ]
-}
->>>>>>> 8797fef75f5ded54b3741233113e0bd728fee84d
