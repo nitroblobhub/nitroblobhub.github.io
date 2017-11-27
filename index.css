@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: #7289DA;
+    color: snow;
+    font-family: 'Open Sans', sans-serif;
+}
+a {
+    color: #6E87D7;
+    text-decoration: none;
+}
+img:hover {
+    height: 150px;
+    width: 150px;
+}
+img {
+    height: 128px;
+    width: 128px;
+    transition: width 0.2s ease-in-out, height 0.2s ease-in-out;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 50%;
+}
