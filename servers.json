@@ -11,6 +11,24 @@
       "name": "Google Blobs 1",
       "invite": "https://discord.gg/PQCW3kM",
       "image": "images/central.png"
+    },
+    {
+      "id": 2,
+      "name": "Google Blobs 2",
+      "invite": "https://discord.gg/nE2eUt4",
+      "image": "images/central2.png"
+    },
+    {
+      "id": 3,
+      "name": "Google Blobs 3",
+      "invite": "https://discord.gg/M7tEXtE",
+      "image": "images/central3.png"
+    },
+    {
+      "id": 4,
+      "name": "Google Blobs 4",
+      "invite": "https://discord.gg/BK2RHVu",
+      "image": "images/central4.png"
     }
   ]
 }
