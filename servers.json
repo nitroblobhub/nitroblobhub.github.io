@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "content": [
         {
             "id": 361022855602896896,
@@ -277,12 +278,6 @@
             "invite": "http://discord.gg/MJQNNbG"
         },
         {
-            "id": 332547149378355200,
-            "name": "Mousey - Internal",
-            "image": null,
-            "invite": null
-        },
-        {
             "id": 365962147316105217,
             "name": "Nitro Thinking Blobs",
             "image": "https://cdn.discordapp.com/icons/365962147316105217/8667fff25759c04b535387281e6c44df.webp?size=1024",
@@ -404,3 +399,20 @@
         }
     ]
 }
+=======
+  "content": [
+    {
+      "id": 0,
+      "name": "Nitro Blob Hub",
+      "invite": "https://discord.gg/wdPs3MU",
+      "image": "images/hub.png"
+    },
+    {
+      "id": 1,
+      "name": "Google Blobs 1",
+      "invite": "https://discord.gg/PQCW3kM",
+      "image": "images/central.png"
+    }
+  ]
+}
+>>>>>>> 8797fef75f5ded54b3741233113e0bd728fee84d
