@@ -34,6 +34,165 @@
       "invite": "https://discord.gg/6RyBKpW",
       "image": "images/keycap_hiragana.png",
       "desc": "ぴぽぱぽ"
+    },
+    {
+      "id": 4,
+      "name": "Nitro Anime Blobs",
+      "invite": "https://discord.gg/npmD9wk",
+      "image": "images/anime.png",
+      "desc": "A server that turns all of your favorite anime characters into blobs!"
+    },
+    {
+      "id": 5,
+      "name": "Nitro Hug Blobs",
+      "invite": "https://discord.gg/TqBJPcs",
+      "image": "images/hug.png",
+      "desc": "A set of blobs, so sweet, you have to hug them back!"
+    },
+    {
+      "id": 6,
+      "name": "Nitro Angel Blobs",
+      "invite": "https://discord.gg/xESCkfA",
+      "image": "images/angel.png",
+      "desc": "A server that turns all of your favorite blobs into sweet little innocent angels!"
+    },
+    {
+      "id": 7,
+      "name": "Nitro Police Blobs",
+      "invite": "https://discord.gg/sdJ7Cbm",
+      "image": "images/police.png",
+      "desc": "This is the blob police, only fun allowed."
+    },
+    {
+      "id": 8,
+      "name": "Nitro Moustache Blobs",
+      "invite": "https://discord.gg/4bfJA5z",
+      "image": "images/moustache.png",
+      "desc": "A server that gives all of your blobs fancy moustaches!"
+    },
+    {
+      "id": 9,
+      "name": "Nitro Snapchat Blobs",
+      "invite": "https://discord.gg/TREgCKj",
+      "image": "images/snapchat.png",
+      "desc": "A server that gives all of your favourite blobs snapchat filters!"
+    },
+    {
+      "id": 10,
+      "name": "Nitro Wolf Blobs",
+      "invite": "https://discord.gg/XhcakrG",
+      "image": "images/wolf.png",
+      "desc": "A server that turns all your favourite blobs into wolves!"
+    },
+    {
+      "id": 11,
+      "name": "Nitro Outage Blobs",
+      "invite": "https://discord.gg/9N4surZ",
+      "image": "images/outage.png",
+      "desc": "We can't display this description, as our service has an outage."
+    },
+    {
+      "id": 12,
+      "name": "Nitro Fast Blobs",
+      "invite": "https://discord.gg/GCCtsfk",
+      "image": "images/fast.png",
+      "desc": "Server is loading so fast nobody is going to notice I'm..."
+    },
+    {
+      "id": 13,
+      "name": "Nitro Eye Blobs",
+      "image": "images/eyes.png",
+      "desc": "What are you looking at?",
+      "invites": [
+        "https://discord.gg/kRGD5ue",
+        "https://discord.gg/3eaE9u6"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Nitro Facepalm Blobs",
+      "image": "images/facepalm.png",
+      "desc": "A server that makes all of your favorite blobs shake their heads and slap their palm on their faces!",
+      "invite": "https://discord.gg/7cKZHkY"
+    },
+    {
+      "id": 15,
+      "name": "Nitro Pumpkin Blobs",
+      "image": "images/pumpkin.png",
+      "desc": "Very spoopy...",
+      "invite": "https://discord.gg/kPYkxy4"
+    },
+    {
+      "id": 16,
+      "name": "Nitro Rainblobs",
+      "image": "images/rainblob.png",
+      "desc": "Taste the rainbow! Actually, don't lick your screen.",
+      "invite": "https://discord.gg/JMfJwCA"
+    },
+    {
+      "id": 17,
+      "name": "Nitro Ping Blobs",
+      "image": "images/ping.png",
+      "desc": "A server that gives all of your favorite blobs an evil ping!",
+      "invite": "https://discord.gg/VZyWTwE"
+    },
+    {
+      "id": 18,
+      "name": "Nitro Lurk Blobs",
+      "image": "images/lurk.png",
+      "desc": "A server that makes all of your favorite blobs lurk!",
+      "invite": "https://discord.gg/ewt4pmv"
+    },
+    {
+      "id": 19,
+      "name": "Nitro Spongeblobs",
+      "image": "images/spongebob.png",
+      "desc": "A server that turns all of your favorite Spongebob characters into blobs!",
+      "invite": "https://discord.gg/xqA3C8Z"
+    },
+    {
+      "id": 20,
+      "name": "Nitro Glare Blobs",
+      "image": "images/glare.png",
+      "desc": "What are you doing? Stop it! Glare!",
+      "invite": "https://discord.gg/GcFrQk8"
+    },
+    {
+      "id": 21,
+      "name": "Nitro Kawaii Blobs",
+      "image": "images/kawaii.png",
+      "desc": "These eyes... KAWAII!",
+      "invites": [
+        "https://discord.gg/crmE7g8",
+        "https://discord.gg/eQZNk5q"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Nitro Blebs",
+      "image": "images/bleb.png",
+      "desc": "A server that turns all of your favorite blobs into creepy blebs!",
+      "invite": "https://discord.gg/VsFzXvX"
+    },
+    {
+      "id": 23,
+      "name": "Nitro Upside Down Blobs",
+      "image": "images/upside_down.png",
+      "desc": "All of your favourite blobs. Upside down of course.",
+      "invites": [
+        "https://discord.gg/MBzWTQD",
+        "https://discord.gg/Db7UDgE"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Nitro Thinking Blobs",
+      "image": "images/thinking.png",
+      "desc": "This leaves me thinking... Are blobs really blobs or do they just look like blobs.",
+      "invites": [
+        "https://discord.gg/djuU8kG",
+        "https://discord.gg/jNEAFJq"
+      ]
     }
   ]
 }
