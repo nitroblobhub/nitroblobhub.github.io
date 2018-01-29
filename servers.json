@@ -193,6 +193,34 @@
         "https://discord.gg/djuU8kG",
         "https://discord.gg/jNEAFJq"
       ]
+    },
+    {
+      "id": 25,
+      "name": "Nitro User Blobs",
+      "image": "images/user.png",
+      "desc": "A collection of personalized blobs made for discord users. Want your own custom blob featured in this pack? Send NewHorizons your own or ask him kindly to make you one :)",
+      "invite": "https://discord.gg/9NAcAtC"
+    },
+    {
+      "id": 26,
+      "name": "High Definition Nitro Blobs",
+      "image": "images/hd.png",
+      "desc": "Your favourite blobs in a stunning high quality size, with added shadows to make them that much better.",
+      "invite": "https://discord.gg/7zmVNES"
+    },
+    {
+      "id": 27,
+      "name": "Discord Staff Blobs",
+      "image": "images/staff.png",
+      "desc": "A collection of personalized blobs for all the staff over at Hammer & Chisel.",
+      "invite": "https://discord.gg/PYq6bg8"
+    },
+    {
+      "id": 28,
+      "name": "Nitro Gaming Blobs",
+      "image": "images/gaming.png",
+      "desc": "Characters from your favourite video games are turned into amazing blobs!",
+      "invite": "https://discord.gg/2VV5P5R"
     }
   ]
 }
