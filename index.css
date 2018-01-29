@@ -19,17 +19,16 @@ a {
 }
 
 .linkimage {
-    height: 128px;
-    width: 128px;
     border-radius: 50%;
+    width: 95%;
 }
 
 .link {
     background-color: rgba(0, 0, 0, 0.0);
     border: none;
     border-radius: 50%;
-    height: 135px;
-    width: 150px;
+    height: 118px;
+    width: 128px;
     cursor: pointer;
 }
 
