@@ -221,6 +221,34 @@
       "image": "images/gaming.png",
       "desc": "Characters from your favourite video games are turned into amazing blobs!",
       "invite": "https://discord.gg/2VV5P5R"
+    },
+    {
+      "id": 29,
+      "name": "Nitro Animal Blobs",
+      "image": "images/animal.png",
+      "desc": "All your favourite animals as blobs! Most animal packs originate from here :)",
+      "invite": "https://discord.gg/dW25DXS"
+    },
+    {
+      "id": 30,
+      "name": "Nitro Flags",
+      "image": "images/flags.png",
+      "desc": "Blobs proudly waving the flags of every country. Don't see your country? Let NewHorizons know.",
+      "invite": "https://discord.gg/MKSdpkT"
+    },
+    {
+      "id": 31,
+      "name": "Nitro Meme Blobs",
+      "image": "images/meme.png",
+      "desc": "Only the dankest of dank memes get turned into blobs.",
+      "invite": "https://discord.gg/yeVwMsf"
+    },
+    {
+      "id": 32,
+      "name": "Nitro Nom Blobs",
+      "image": "images/nom.png",
+      "desc": "Cute, adorable blobs chomping away on various items.",
+      "invite": "https://discord.gg/eukce3C"
     }
   ]
 }
